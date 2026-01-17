@@ -10,7 +10,6 @@ Current Goals 🚀 <br>
 🔹 Build smarter dashboards and analytics solutions <br>
  <br>
 Tech Stack 🛠️ <br>
-🔹Web Development <br>
 🔹Frontend: HTML, CSS, JavaScript, Bootstrap <br>
 🔹Backend: PHP <br>
 🔹Database: MySQL <br>
