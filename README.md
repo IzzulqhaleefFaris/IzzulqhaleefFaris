@@ -1,6 +1,6 @@
 ## Hi there! 🫡
 
-I’m Izzul, a Web Developer & Power BI Developer based in Malaysia 🇲🇾
+I’m Izzul, currently a Web Developer & Power BI Developer based in Malaysia 🇲🇾
 
 I enjoy building data-driven web applications and dashboards, and I’m currently pushing myself deeper into full-stack development while exploring how to integrate AI into real-world systems.
 
