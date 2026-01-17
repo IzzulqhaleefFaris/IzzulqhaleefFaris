@@ -17,7 +17,7 @@ I enjoy building data-driven web applications and dashboards, and I’m currentl
 
 ## A Bit About Me 😺  <br>
 🎮 Serial video game player <br>
-☕ Coffee lover (but not too bitter) <br>
+☕ Tea Lover <br>
 🍿 Anime fan — Dandadan is a favorite (Fun fact: Okarun is my closest lookalike 👀) <br>
 💻 Computer Science enthusiast - I’ll learn anything as long as it’s CS-related 
 
