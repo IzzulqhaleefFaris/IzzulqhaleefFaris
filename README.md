@@ -4,7 +4,7 @@ I’m Izzul, a Web Developer & Power BI Developer based in Malaysia 🇲🇾
 
 I enjoy building data-driven web applications and dashboards, and I’m currently pushing myself deeper into full-stack development while exploring how to integrate AI into real-world systems.
 
-Current Goals 🚀 
+Current Goals 🚀 <br>
 🔹 Grow as a Full-Stack Developer
 🔹 Integrate AI & automation into web applications
 🔹 Build smarter dashboards and analytics solutions
