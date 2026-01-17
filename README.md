@@ -8,7 +8,7 @@ I enjoy building data-driven web applications and dashboards, and I’m currentl
 🔹 Grow as a Full-Stack Developer <br>
 🔹 Integrate AI & automation into web applications <br>
 🔹 Build smarter dashboards and analytics solutions <br>
- <br>
+ 
 ## Tech Stack 🛠️ <br>
 🔹Frontend: HTML, CSS, JavaScript, Bootstrap <br>
 🔹Backend: PHP <br>
