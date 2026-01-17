@@ -1,4 +1,4 @@
-##Hi there! 🫡
+## Hi there! 🫡
 
 I’m Izzul, a Web Developer & Power BI Developer based in Malaysia 🇲🇾
 
