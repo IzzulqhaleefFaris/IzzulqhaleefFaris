@@ -1,6 +1,12 @@
 ## Hi there!🫡
 
-<---
+I'm Izzul, currently a Web Developer and Power BI Developer based in Malaysia.
+
+My current goals are to eager working on full-stack development and integrating with AI stuffs.
+
+Current stacks for web developments: HTML, CSS, Javascipt, PHP, Bootstrap, MySQL 
+
+<!---
 **IzzulqhaleefFaris/IzzulqhaleefFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---->
+-->
