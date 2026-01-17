@@ -5,22 +5,22 @@ I’m Izzul, a Web Developer & Power BI Developer based in Malaysia 🇲🇾
 I enjoy building data-driven web applications and dashboards, and I’m currently pushing myself deeper into full-stack development while exploring how to integrate AI into real-world systems.
 
 Current Goals 🚀 <br>
-🔹 Grow as a Full-Stack Developer
-🔹 Integrate AI & automation into web applications
-🔹 Build smarter dashboards and analytics solutions
+🔹 Grow as a Full-Stack Developer <br>
+🔹 Integrate AI & automation into web applications <br>
+🔹 Build smarter dashboards and analytics solutions <br>
+ <br>
+Tech Stack 🛠️ <br>
+🔹Web Development <br>
+🔹Frontend: HTML, CSS, JavaScript, Bootstrap <br>
+🔹Backend: PHP <br>
+🔹Database: MySQL <br>
+🔹Data & Power BI (Dashboarding, DAX, Data Modeling) <br>
 
-Tech Stack 🛠️
-🔹Web Development
-🔹Frontend: HTML, CSS, JavaScript, Bootstrap
-🔹Backend: PHP
-🔹Database: MySQL
-🔹Data & Power BI (Dashboarding, DAX, Data Modeling)
-
-A Bit About Me 😺 
-🎮 Serial video game player
-☕ Coffee lover (but not too bitter)
-🍿 Anime fan — Dandadan is a favorite (Fun fact Okarun is my closest lookalike 👀)
-💻 Computer Science enthusiast - I’ll learn anything as long as it’s CS-related
+A Bit About Me 😺  <br>
+🎮 Serial video game player <br>
+☕ Coffee lover (but not too bitter) <br>
+🍿 Anime fan — Dandadan is a favorite (Fun fact Okarun is my closest lookalike 👀) <br>
+💻 Computer Science enthusiast - I’ll learn anything as long as it’s CS-related 
 
 <!---
 **IzzulqhaleefFaris/IzzulqhaleefFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
