@@ -10,8 +10,8 @@ I enjoy building data-driven web applications and dashboards, and I’m currentl
 🔹 Build smarter dashboards and analytics solutions <br>
  
 ## Tech Stack 🛠️ <br>
-🔹Frontend: HTML, CSS, JavaScript, Bootstrap <br>
-🔹Backend: PHP <br>
+🔹Frontend: HTML, CSS, JavaScript, Bootstrap, React <br>
+🔹Backend: PHP, Node.js <br>
 🔹Database: MySQL <br>
 🔹Data & Power BI (Dashboarding, DAX, Data Modeling) <br>
 <!-- Refer to GPRM Github Profile Maker -->
