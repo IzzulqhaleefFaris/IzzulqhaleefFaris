@@ -1,4 +1,4 @@
-## Hi there!
+## Hi Everyone!
 
 I’m Izzul, currently a Web Developer & Power BI Developer based in Malaysia 🇲🇾
 
@@ -10,7 +10,7 @@ I enjoy building data-driven web applications and dashboards, and I’m currentl
 🔹 Build smarter dashboards and analytics solutions <br>
  
 ## Tech Stack 🛠️ <br>
-🔹Frontend: HTML, CSS, JavaScript, Bootstrap, React <br>
+🔹Frontend: HTML, CSS, JavaScript, Bootstrap, Laravel, React <br>
 🔹Backend: PHP, Node.js <br>
 🔹Database: MySQL <br>
 🔹Data & Power BI (Dashboarding, DAX, Data Modeling) <br>
